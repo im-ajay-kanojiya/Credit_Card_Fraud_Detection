@@ -60,5 +60,5 @@ Evaluated the model using metrics like:
 3. Run the notebook `Project_10_Credit_Card_Fraud_Detection.ipynb` to replicate the results.
 
 ## Conclusion
-This project highlights the challenges of imbalanced datasets and the importance of preprocessing to improve model performance. Logistic regression was effective in detecting fraudulent transactions with balanced data.
+This project highlights the challenges of imbalanced datasets and the importance of preprocessing to improve model performance. Logistic regression was effective in detecting fraudulent transactions with balanced data....
 
